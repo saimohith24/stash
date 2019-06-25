@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="sample stash" max_length="40" name="x_362927_stash1_sample_stash" type="collection">
+        <element label="col1" max_length="40" name="col1" type="string"/>
+        <element label="col2" max_length="40" name="col2" type="string"/>
+        <element label="col3" max_length="40" name="col3" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="col4" max_length="40" name="col4" type="integer"/>
+    </element>
+</database>

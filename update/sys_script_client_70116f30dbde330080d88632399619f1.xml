@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>col1</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>branch1  onLoad</name>
+        <order/>
+        <script><![CDATA[function onLoad() {
+   //Type appropriate comment here, and begin script below
+	alert("onLoad");
+   
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-25 11:28:47</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>70116f30dbde330080d88632399619f1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>branch1  onLoad</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="stash1" source="x_362927_stash1">f21fdfbcdb9e330080d8863239961913</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="stash1">f21fdfbcdb9e330080d8863239961913</sys_scope>
+        <sys_update_name>sys_script_client_70116f30dbde330080d88632399619f1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-25 11:28:47</sys_updated_on>
+        <table>x_362927_stash1_sample_stash</table>
+        <type>onLoad</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>
